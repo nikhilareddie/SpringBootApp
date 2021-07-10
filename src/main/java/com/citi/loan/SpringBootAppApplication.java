@@ -14,7 +14,7 @@ import com.citi.loan.service.LoginService;
 public class SpringBootAppApplication {	
 
 	public static void main(String[] args) {
-		System.out.println("Hellow Spring Boot");
+		System.out.println("Hellow Spring Boot App");
 		//SpringApplication.run(SpringBootAppApplication.class, args);
 		
 	   SpringApplication.run(SpringBootAppApplication.class, args);
