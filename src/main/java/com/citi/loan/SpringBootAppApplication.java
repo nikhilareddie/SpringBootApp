@@ -22,7 +22,7 @@ public class SpringBootAppApplication {
 
 	   
 	   //git_HUB something added both are not in sync
-
+//push
 			
 	}
 
