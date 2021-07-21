@@ -19,6 +19,9 @@ public class SpringBootAppApplication {
 		
 	   SpringApplication.run(SpringBootAppApplication.class, args);
 	   //commented lines
+	   
+	   //something added
+	   
 			
 	}
 
