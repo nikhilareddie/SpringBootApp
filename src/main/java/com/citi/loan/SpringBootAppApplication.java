@@ -20,7 +20,7 @@ public class SpringBootAppApplication {
 	   SpringApplication.run(SpringBootAppApplication.class, args);
 	   //commented lines
 	   
-	   //something added both are not in sync
+	   ////git_HUB something added both are not in sync
 	   
 			
 	}
