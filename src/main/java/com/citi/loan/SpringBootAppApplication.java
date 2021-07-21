@@ -18,6 +18,7 @@ public class SpringBootAppApplication {
 		//SpringApplication.run(SpringBootAppApplication.class, args);
 		
 	   SpringApplication.run(SpringBootAppApplication.class, args);
+	   //commented lines
 			
 	}
 
