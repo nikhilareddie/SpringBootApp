@@ -24,11 +24,6 @@ public class SpringBootAppApplication {
 
 //pushpull
 
-=======
-<<<<<<< HEAD
-//push======
-
->>>>>>> ceceef31001fe5445d09707776e8293bd07b8558
 			
 	}
 
