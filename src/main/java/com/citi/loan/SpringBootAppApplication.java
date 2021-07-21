@@ -21,11 +21,8 @@ public class SpringBootAppApplication {
 	   //commented lines
 	   //git_HUB something added both are not in sync
 <<<<<<< HEAD
-//push
-=======
-		//pull
+//push======
 
->>>>>>> b557dd0b9e2f1c3a4ada7f9c1da08c9644a166b2
 			
 	}
 
