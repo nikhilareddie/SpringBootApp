@@ -19,13 +19,10 @@ public class SpringBootAppApplication {
 		
 	   SpringApplication.run(SpringBootAppApplication.class, args);
 	   //commented lines
-<<<<<<< HEAD
+
 	   
-	   ////git_HUB something added both are not in sync
-	   
-=======
-		//git_HUB
->>>>>>> 82d0bd7ccec8361bbdc6dfd6b6072f40cb4752b0
+	   //git_HUB something added both are not in sync
+
 			
 	}
 
