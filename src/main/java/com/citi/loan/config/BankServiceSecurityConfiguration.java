@@ -22,9 +22,11 @@ public class BankServiceSecurityConfiguration extends WebSecurityConfigurerAdapt
 	//private BCryptPasswordEncoder bCryptPasswordEncoder;
 
 	//private UserDetailsService userDetailsService;
+	// july work
 
 	private static final String[] AUTH_WHITELIST = {
 
+			
 			"bankuser"
 
 	};
