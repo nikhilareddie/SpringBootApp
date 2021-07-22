@@ -13,7 +13,7 @@ public class CommandLineRunnerApp implements org.springframework.boot.CommandLin
     @Override
     public void run(String...args) throws Exception {
     //	String result = loginService.login("admin", "Pwd123#");
-		//System.out.println("Login result "+result);	
+		//Stestystem.out.println("Login result "+result);	
 
     }
 }
